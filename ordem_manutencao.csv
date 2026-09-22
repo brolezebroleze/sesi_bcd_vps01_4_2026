@@ -1,0 +1,4 @@
+id,id_equipamento,tipo,descricao,data_abertura,data_inicio,data_fim,status,prioridade
+1,1,preventiva,troca de óleo e calibração de eixos,2026-03-01 08:00:00,2026-03-01 09:00:00,2026-03-01 12:00:00,concluída,média
+2,2,corretiva,vazamento no cilindro principal,2026-03-05 14:30:00,2026-03-05 15:00:00,,em andamento,alta
+3,3,preventiva,substituição de filtros e verificação de correntes,2026-03-10 10:00:00,2026-03-10 10:30:00,2026-03-10 11:30:00,concluída,baixa   

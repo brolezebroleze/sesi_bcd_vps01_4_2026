@@ -1,0 +1,4 @@
+id,id_ordem,id_tecnico,descricao_servico,data_execucao,horas_trabalhadas,observacoes
+1,1,1,realizada troca de rolamentos e alinhamento do barramento,2026-03-01 09:00:00,3.0,equipamento liberado em perfeito estado.
+2,2,2,desmontagem do retentor e diagnóstico de vedação com defeito,2026-03-05 15:00:00,2.5,aguardando reparo do retentor.
+3,3,3,limpeza geral e substituição preventiva do filtro de óleo,2026-03-10 10:30:00,1.0,próxima preventiva agendada para daqui a 6 meses.

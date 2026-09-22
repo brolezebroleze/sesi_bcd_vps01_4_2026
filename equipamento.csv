@@ -1,0 +1,4 @@
+id,nome,tipo,marca,modelo,numero_serie,data_aquisicao,status,setor,valor_aquisicao
+1,torno cnc 01,usinagem,hamborgue,centur 30d,cnc2023001,2021-03-15,ativo,usinagem,85000.00
+2,prensa hidráulica 50t,prensa,prensahidro,ph-50,ph2019088,2019-07-20,manutenção,estamparia,45000.00
+3,compressor parafuso,pneumático,schulz,srp 4015,cp2022500,2022-01-10,ativo,utilidades,28000.00
