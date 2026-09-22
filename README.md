@@ -1,6 +1,8 @@
 <div align="center">
    
-# Projeto: Manutenção de Equipamentos
+# Projeto: Manutenção de Equipamentos <br> 
+[Aula de Referencia](https://github.com/wellifabio/senai2026/blob/main/ds/turmas/1DES_B/2%C2%BA%20Semestre/01-bcd/aula07)
+
 <img src="diagrama lógico.png" height="900"/>
  <div align="center"> </br>
  <details>
@@ -9,7 +11,6 @@
 <img src="modelo conceitual.png" height="600"/>
 </details>
   
-
 ##
 
 # Dicionário de Dados
